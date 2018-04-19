@@ -1,19 +1,19 @@
 #!/bin/bash
 
 ############################################
-#										   #
+#					   #
 # Add route for dynamic DNS IP through VPN #
-#										   #
+#					   #
 ############################################
 
-############################
-# EDIT Hostname HERE:
+############################################
+# EDIT your hostname BELOW:
 
 HOST="yourhostname.net"
 
 # USE "-v" option for verbose output
 
-############################
+############################################
 
 D=0
 if [ "x$1" = "x-v" ];
