@@ -9,7 +9,7 @@
 ############################################
 # EDIT your hostname BELOW:
 
-HOST="yourhostname.net"
+HOST="edityourhostnamehere.net"
 
 # USE "-v" option for verbose output
 
